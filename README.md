@@ -1,4 +1,8 @@
-# Pixel Art Maker Project
+# Pixel Art Maker 
+
+## Udacity Intro to Programming - Project 3
+
+## HTML5, CSS3, JavaScript
 
 ## Table of Contents
 
